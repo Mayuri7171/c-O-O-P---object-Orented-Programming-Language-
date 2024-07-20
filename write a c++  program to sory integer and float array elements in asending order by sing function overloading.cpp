@@ -1,4 +1,4 @@
-//write a c++  program to sory integer and float array elements in asending order by sing function overloading
+//write a c++  program to sort integer and float array elements in asending order by sing function overloading
 
 void sort(int a[],int n)
 {
